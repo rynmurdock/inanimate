@@ -9,7 +9,7 @@ Uncond:
   guidance_scale: 24
 
   prompt:
-    - "the cute golden retriever puppy runs in a field with flowers"
+    - ""
 
   n_prompt:
     - flickering, confusing -- weird edits and cuts
