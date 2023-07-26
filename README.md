@@ -13,14 +13,16 @@ Then run like so:
 
 `python scripts/animate.py --config ./configs/prompts/uncond.yaml --pretrained_model_path path_to_sd/StableDiffusion/sd1.5/ --L 16 --start_image path_to_bluejay.png --init_strength .5 --prompt 'the virgin mary holds a bird'`
 
-Feel free to adjust the init_strength to use more or less influence from your image.
+Feel free to adjust the init_strength to use more or less influence from your image. This works comparably to an init-image or image-to-image system :)
 
 
 Hat tip to https://github.com/talesofai/AnimateDiff, which allows for an init image but, from what I could tell, not the exact starting frame.
 
+And of course, thanks to the authors of AnimateDiff.
+
 # AnimateDiff
 
-This repository is the official implementation of [AnimateDiff](https://arxiv.org/abs/2307.04725).
+This repository is built off of the official implementation of [AnimateDiff](https://arxiv.org/abs/2307.04725).
 
 **[AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725)**
 </br>
