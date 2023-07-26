@@ -1,4 +1,5 @@
-# Inanimate uses AnimateDiff to start with an initial image for the first frame
+# Inanimate 
+## Uses AnimateDiff to start with an initial image for an animation's first frame
 
 
 To use this, clone/download the repo:
