@@ -1,0 +1,14 @@
+Uncond:
+  base: ''
+  path: ''
+  motion_module:
+  - ./models/Motion_Module/mm_sd_v15.ckpt
+  seed: -1
+  steps: 16
+  guidance_scale: 30
+  prompt:
+  - the cute golden retriever puppy runs in a field with flowers
+  n_prompt:
+  - flickering, confusing -- weird edits and cuts
+  random_seed:
+  - 9378714084994577531

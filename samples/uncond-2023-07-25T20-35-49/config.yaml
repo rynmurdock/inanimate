@@ -1,0 +1,14 @@
+Uncond:
+  base: ''
+  path: ''
+  motion_module:
+  - ./models/Motion_Module/mm_sd_v15.ckpt
+  seed: -1
+  steps: 48
+  guidance_scale: 18
+  prompt:
+  - a psychedelic view
+  n_prompt:
+  - a still image
+  random_seed:
+  - 13320130246641267189

@@ -1,0 +1,14 @@
+Uncond:
+  base: ''
+  path: ''
+  motion_module:
+  - ./models/Motion_Module/mm_sd_v15.ckpt
+  seed: -1
+  steps: 16
+  guidance_scale: 14
+  prompt:
+  - the theotokos holds a sparrow
+  n_prompt:
+  - strange cuts and edits, flashing
+  random_seed:
+  - 12805446911252619635
