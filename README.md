@@ -1,7 +1,7 @@
 # Inanimate 
 ## Uses AnimateDiff to start with an initial image for an animation's first frame
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rynmurdock/inanimate/inanimate.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rynmurdock/inanimate/blob/main/inanimate.ipynb)
 ## Examples
 
 <p align="middle">
