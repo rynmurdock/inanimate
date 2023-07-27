@@ -1,6 +1,17 @@
 # Inanimate 
 ## Uses AnimateDiff to start with an initial image for an animation's first frame
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rynmurdock/inanimate/inanimate.ipynb]
+## Examples
+
+<img src="https://cdn.discordapp.com/attachments/1133889357611282502/1133893285379854346/chigozie_rocket.gif" height="300px" />
+<img src="https://cdn.discordapp.com/attachments/1133889357611282502/1133889619981783160/advadnoun_origami.gif" height="300px" />
+<img src="https://cdn.discordapp.com/attachments/1133889357611282502/1133889620451541103/advadnoun_peck.gif" height="300px" />
+
+
+<img src="https://cdn.discordapp.com/attachments/1133889357611282502/1133891066723045566/advadnoun_mona.gif" height="300px" />
+<img src="https://cdn.discordapp.com/attachments/1133889357611282502/1133891850957242488/advadnoun_dog.gif" height="300px" />
+<img src="https://cdn.discordapp.com/attachments/1133889357611282502/1133907319583932486/chigozie_coffee.gif" height="300px" />
 
 To use this, clone/download the repo:
 
